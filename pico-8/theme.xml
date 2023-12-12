@@ -13,14 +13,13 @@
     <text>Pixel Games</text>
 </text>
   <text name="sys_line2" extra="true">
-    <text>ENGINE PICO-8</text>
+    <text>PICO-8</text>
 </text> 
   <text name="shortdescription" extra="true">
    <text>2003  ·  Pixel Engine</text>
   </text>
   <text name="longdescription" extra="true">
    <text>PICO-8 is a virtual machine and game engine that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s to encourage creativity and ingenuity in producing games without being overwhelmed with the many possibilities of modern tools and machines.</text>
-  </text>
   </text>
  </view>
 </theme>
