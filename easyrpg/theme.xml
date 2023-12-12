@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Easy RPG</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text></text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>EASY-RPG</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2019  ·  CUSTOM RPG Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Free and open source role playing game interpreter and editor compatible with RPG Maker 2000 and 2003.</text>
+  </text>
+ </view>
+</theme>
