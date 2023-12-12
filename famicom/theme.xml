@@ -10,11 +10,11 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Famicom</text>
+    <text>Nintendo</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Disk System</text>
+    <text>Famicom</text>
 
 </text>
   <text name="shortdescription" extra="true">

@@ -19,7 +19,8 @@
    <text>2003  ·  Pixel Engine</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Pixel Engine Games.</text>
+   <text>PICO-8 is a virtual machine and game engine that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s to encourage creativity and ingenuity in producing games without being overwhelmed with the many possibilities of modern tools and machines.</text>
+  </text>
   </text>
  </view>
 </theme>

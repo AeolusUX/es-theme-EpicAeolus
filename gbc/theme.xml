@@ -10,11 +10,11 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo</text>
+    <text>Nintendo Gameboy</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>GameBoy Color</text>
+    <text>Color</text>
 
 </text>
   <text name="shortdescription" extra="true">

@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>PC-Engine</text>
+    <text>PC Engine</text>
   </text>
 </view>    
 
@@ -13,7 +13,7 @@
     <text>NEC</text>
  </text>
   <text name="sys_line2" extra="true">
-    <text>PC-Engine</text>
+    <text>PC Engine</text>
 
   </text>    
   <text name="shortdescription" extra="true">
