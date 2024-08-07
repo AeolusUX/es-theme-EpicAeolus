@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Arduboy</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text></text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Arduboy</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2015  ·  8-bit Handheld Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.</text>
+  </text>
+ </view>
+</theme>
