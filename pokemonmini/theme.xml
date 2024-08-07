@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Pokémon Mini</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text></text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Pokémon Mini</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  8-bit Handheld Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Pokémon Mini is the smallest game system with interchangeable cartridges ever produced by Nintendo.</text>
+  </text>
+ </view>
+</theme>
