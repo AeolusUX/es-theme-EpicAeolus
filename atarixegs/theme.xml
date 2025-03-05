@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>>Atari XEGS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Atari XEGS</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari XE is a redesign of the 65XE computer. Inputs were a keyboard, a Joystick or a Light Gun</text>
+  </text>
+ </view>
+</theme>
