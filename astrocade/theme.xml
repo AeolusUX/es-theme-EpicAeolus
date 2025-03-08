@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Astrocade</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Astrocade</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1976  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Bally Astrocade is a second-generation home video game console. The Astrocade is particularly notable for its very powerful graphics capabilities for the time of release.</text>
+  </text>
+ </view>
+</theme>

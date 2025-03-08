@@ -1,0 +1,22 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Adventure Vision</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Ad. Vision</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Adventure Vision was cartridge-based. A portable unit where the LED monitor can only display red pixels. 4 games only.</text>
+  </text>
+ </view>
+</theme>
